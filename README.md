@@ -12,3 +12,5 @@
 
 ## Le zootrope
 ![gravure-zootrope](https://user-images.githubusercontent.com/94126495/145143721-7ee03188-1312-422c-83c6-83be6dba9ea9.jpg)
+
+## L’idée d’animer des personnages au cinéma est venue au XXe siècle. Cela a été possible grâce à une invention qui existait déjà depuis 1832, le phénakistiscope, les dessins étaient dessinés directement sur le papier ce qui était une contrainte importante pour le décor qui étaient généralement blancs. 
