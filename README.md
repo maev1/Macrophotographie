@@ -16,7 +16,7 @@
 ## L’idée d’animer des personnages au cinéma est venue au XXe siècle. Cela a été possible grâce à une invention qui existait déjà depuis 1832, le phénakistiscope, les dessins étaient dessinés directement sur le papier ce qui était une contrainte importante pour le décor qui étaient généralement blancs. 
 
 
-## Ensuite,  est apparu le celluloïde, cette technique permettait de faire des dessins sur des images différentes avec 16 à 24 images par seconde. De plus, il était plus simple de rajouter de la couleur aux dessins en l’ajoutant au verso. Ses animations étaient principalement présentées au cinéma comme étant des courts métrages muets.
+## Ensuite,  est apparu le celluloïde, cette technique permettait de faire des dessins sur des images différentes avec 16 à 24 images par seconde, la fluidité des animations était de meilleure qualité que celles créées avec les technique précédentes. De plus, il était plus simple de rajouter de la couleur aux dessins en l’ajoutant au verso. Ses animations étaient principalement présentées au cinéma comme étant des courts métrages muets.
 
 
 ![the-band-concert](https://user-images.githubusercontent.com/94126495/145335491-6f4f739d-a9dd-49b7-a6e0-e343c4e68422.png)
